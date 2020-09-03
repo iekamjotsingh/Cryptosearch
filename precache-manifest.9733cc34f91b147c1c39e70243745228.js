@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75b566c066ab2571e98eb1bd56e29439",
+    "revision": "baf32894ec625a6cf309c7d80084fa81",
     "url": "/Cryptosearch/index.html"
   },
   {
